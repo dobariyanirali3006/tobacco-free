@@ -199,11 +199,16 @@ body {
 
 .section2 .info p {
   width: 80%;
-  font-weight: 400;
+  font-weight:400;
   line-height: 32px;
   font-size: 24px;
   color: rgba(15, 46, 24, 1);
   margin-bottom: 20px;
+  
+}
+.section2 .info p span{
+  font-weight: bold;
+  color: #498224;
 }
 
 .section2 .more a {
